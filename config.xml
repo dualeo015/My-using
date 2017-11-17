@@ -1,0 +1,17 @@
+<config>
+<quality>true</quality>
+<skin>https://raw.githubusercontent.com/dualeo015/My-using/master/seven.css</skin>
+<logo></logo>
+<backcolor>#ffffff</backcolor>
+<frontcolor>#000000</frontcolor>
+<lightcolor>#66cc00</lightcolor>
+<screencolor>#000000</screencolor>
+<controlbar>bottom</controlbar>
+<icons>1</icons>
+<displayclick>play</displayclick>
+<smoothing>1</smoothing>
+<autostart>0</autostart>
+<repeat>list</repeat>
+<shuffle>1</shuffle>
+<volume>100</volume>
+</config>
